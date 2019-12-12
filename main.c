@@ -26,7 +26,9 @@ int main() {
       //0x4005d000 DATA
       //0x4005d400 DIR
       //0x4005d51c DEN
-      //0x400fe608 RCGC //#define SYSCTL_RCGCGPIO_R       (*((volatile unsigned long *)0x400FE608))
+      //0x400fe608 RCGC //#define SYSCTL_RCGCGPIO_R       (*((volatile unsigned long *)0x400FE608))kjöhkuyvgukvipyvukyuoivigipu
+
+      //ofoahpubOBOÅTB
       
     }
     //return 0;
